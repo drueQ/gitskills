@@ -3,3 +3,5 @@ if(a<b):
     print(a)
 else:
     print(a)
+print("hella")
+
